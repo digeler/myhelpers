@@ -1,0 +1,1 @@
+azure vm disk upload <source-path> <target-blob-url> <target-storage-account-key>
